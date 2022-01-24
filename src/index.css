@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav {
+  display: flex;
+  justify-content:space-around;
+  background-color: crimson;
+  color: white;
+  padding: 15px;
+  font-size: 1.5em;
+  text-align:justify;
+  font-family:monospace;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
